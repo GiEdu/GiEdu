@@ -1,5 +1,6 @@
 # Olá eu sou o Edu
 <li>😁 Eu programo em HTML, CSS, vb.net,vbs, vba e batch</li>
+<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
