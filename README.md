@@ -12,4 +12,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GiEdu&show_icons=true" />
 </picture>
 <hr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" height="47px" width="47px"/>
