@@ -13,3 +13,4 @@
 </picture>
 <hr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" height="47px" width="47px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="47px" width="47px" />        
