@@ -12,5 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GiEdu&show_icons=true" />
 </picture>
 <hr>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" height="47px" width="47px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="47px" width="47px" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="47px" width="47px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="47px" width="47px" />
+</div>
