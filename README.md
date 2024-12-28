@@ -1,2 +1,2 @@
-# Ola eu sou o edu
-## Programo em vb.net, html, css, vbs, vba, batch
+# Olá eu sou o Edu
+<li>😁 Eu programo em HTML, CSS, vb.net,vbs, vba e batch</li>
