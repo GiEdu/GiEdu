@@ -1,5 +1,5 @@
 # Olá eu sou o Edu
-<br><br>
+<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=GiEdu&show_icons=true&theme=dark"
